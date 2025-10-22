@@ -124,7 +124,7 @@
 </head>
 <body>
   <header>
-    <h1>Ember Roast Coffee</h1>
+    <h1>Green Cherry Coffee</h1>
     <nav>
       <a href="#coffee">Our Coffee</a>
       <a href="#about">About</a>
@@ -172,12 +172,12 @@
 
   <section id="contact" class="section">
     <h3>Contact Us</h3>
-    <p>Email: <a href="mailto:orders@emberroast.com">orders@emberroast.com</a></p>
-    <p>Follow us on Instagram: <a href="#">@EmberRoastCoffee</a></p>
+    <p>Email: <a href="mailto:orders@greencherrycoffee.com">orders@greencherrycoffee.com</a></p>
+    <p>Follow us on Instagram: <a href="#">@GreenCherryCoffee</a></p>
   </section>
 
   <footer>
-    &copy; 2025 Ember Roast Coffee — Roasted with heart in Texas.
+    &copy; 2025 Green Cherry Coffee — Roasted with heart in Texas.
   </footer>
 </body>
 </html>
